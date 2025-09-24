@@ -1,7 +1,6 @@
 #include <iostream>
 
-using namespace std; // ????
-// Instaciação ????
+using namespace std;
 
 /* int main()
 {
