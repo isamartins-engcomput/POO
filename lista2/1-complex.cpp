@@ -20,7 +20,7 @@ class Livro
     /* Método para exibir os dados do livro.
     'const' serve para dizer ao compilador que esse método não vai
     alterar em nada os atributos do objeto. */
-    void listarLivro() const
+    void const listarLivro()
     {
       cout << "\nTítulo: " << titulo;
       cout << "\nAutor: " << autor;

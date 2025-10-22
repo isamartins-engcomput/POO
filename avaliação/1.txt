@@ -1,0 +1,22 @@
+EXERCÍCIO 1 - CONCEITUAL
+Estudante: Isadora Martins - Eng.Comput3
+
+A) Definições:
+AGREGAÇÃO: é um tipo de relacionamento mais fraco entre objetos de uma classe, eles não são dependentes
+ou exclusivos um do outro quanto ao seu ciclo de vida, portanto, se eu excluir o objeto pai, o objeto filho
+pode continuar existindo tranquilamente sem nenhum problema de dependência.
+COMPOSIÇÃO: tipo de relacionamento mais forte entre objetos de uma classe. Aqui, se eu excluir o objeto pai,
+o objeto filho deve encontrar problemas de dependências e consequentemente terá que ser excluído também.
+
+B) Exemplos contextuais:
+AGREGAÇÃO: Livros e Biblioteca. Nesse caso, eu tenho livros que não são dependentes de uma biblioteca pra
+existir, então eu posso adicionar e excluí-los tranquilamente sem se preocupar com dependências.
+COMPOSIÇÃO: Carro e Motor. Aqui, eu tenho um carro que é totalmente dependente de um motor para
+funcionar, portanto se eu excluir o motor de um carro, ele automaticamente terá que ser excluído também.
+
+C) Representação de atributos:
+AGREGAÇÃO: eu precisaria usar a biblioteca vector para conseguir passar por referência e ter acesso a todo os
+atributos necessários para o meu código de uma classe para outra, assim eu otimizaria memória e teria um bom
+funcionamento e fluxo do meu código.
+COMPOSIÇÃO: eu chamaria tranquilamente uma classe dentro de outra sem precisar passar referências, pois os
+dois são inteiramente dependentes um do outro e precisam ter compartilhamento e ligação total.

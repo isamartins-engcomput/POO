@@ -1,0 +1,35 @@
+EXERCÍCIO 2 - DIAGRAMA DE CLASSES
+Estudante: Isadora Martins - Eng.Comput3
+
+Locação de veículos
+
+Classe: Cliente
+Atributos: nome, cpf, idade, renda
+Metódos: fazerReserva()
+
+Classe: Veículo
+Atributos: placa, marca, modelo, categoria 
+Metódos: associarCliente()
+
+Classe: Itens
+Atributos: item, qtd, valor
+Metódos: somarItens()
+
+Classe: Reserva
+Atributos: *Cliente, *Veiculo, *Itens, retirada, devolucao
+Metódos: criarReserva()
+Composição: dependente de Cliente e Veículo para existir
+
+Classe: Atendentes
+Atributos: *Cliente, *Veiculo, retirada, devolucao
+Metódos: registrarReserva(), acompanharReserva()
+
+Classe: Frota
+Atributos: *Veiculo, *Reserva
+Metódos: listarVeiculos()
+Composição: dependente da Empresa
+
+Classe: Empresa
+Atributos: *Frota, *Atendentes
+Metódos: listarReservas(), controlarFrota()
+Agregação: não depende das outras classes para existir
