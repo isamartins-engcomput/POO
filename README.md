@@ -1,4 +1,4 @@
-# ENGENHARIA DE COMPUTAÇÃO - POO / 2025
+# 🏭 REPO POO C++ - 2025/2 - ENG.COMPUT 3
 
 ![POO](capePOO.png)
 
@@ -8,7 +8,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)
 
-## 📚 SOBRE O REPOSITÓRIO
+## 📚 SOBRE
 
 Este é o universo da **Programação Orientada a Objetos (POO)** que construí durante o **3º semestre** do curso de **Engenharia de Computação no IFMS - Campus Três Lagoas**, com o auxílio do professor **José Roberto Campos**.
 
@@ -19,14 +19,14 @@ As atividades avaliativas e exercícios práticos desenvolvidos ao longo da disc
 * **Fundamentos:** Classes, Objetos, Atributos e Métodos.
 * **Gerenciamento de Memória:** Construtores, Destrutores e Ponteiros.
 * **Pilares de POO:**
-    * Encapsulamento (Modificadores de acesso);
-    * Herança (Simples e Múltipla);
-    * Polimorfismo (Sobrescrita e Sobrecarga);
-    * Abstração (Classes Abstratas e Interfaces).
+  * Encapsulamento (Modificadores de acesso);
+  * Herança (Simples e Múltipla);
+  * Polimorfismo (Sobrescrita e Sobrecarga);
+  * Abstração (Classes Abstratas e Interfaces).
 
 ---
 
-## 💡 OBJETIVOS DO REPOSITÓRIO
+## 💡 OBJETIVOS
 
 Neste repositório, você encontra uma coleção de códigos, exercícios e projetos desenvolvidos (majoritariamente em **C++**), com foco em:
 
@@ -36,7 +36,7 @@ Neste repositório, você encontra uma coleção de códigos, exercícios e proj
 
 ---
 
-## 📂 ESTRUTURA DO REPOSITÓRIO
+## 📂 ESTRUTURA
 
 #### Listas Avaliativas
 
