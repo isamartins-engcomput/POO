@@ -1,9 +1,12 @@
 programa
 /.vscode
-lista1/ex1
-lista2/[1-8]
-lista2/1-complex
-estudos/biblioteca
+lista1_ClasseEncapsulamento/ex1
+lista1_ClasseEncapsulamento/[1-8]
+lista1_ClasseEncapsulamento/1-complex
+lista2_HerancaPolimorfismo/[1-4]
 heranca+polimorfismo/codeAULA/build
 heranca+polimorfismo/ComponenteEletronico_POO/bin
 heranca+polimorfismo/ComponenteEletronico_POO/build
+heranca+polimorfismo/BancoContas_POO/bin
+heranca+polimorfismo/BancoContas_POO/build
+heranca+polimorfismo/.vscode/
